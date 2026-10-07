@@ -2,7 +2,7 @@
 
 A machine learning-based predictive maintenance system that analyzes industrial machine operating conditions to identify potential machine failures and classify machines into different risk levels.
 
-The project combines **Python, Pandas, Scikit-learn, Random Forest, and Power BI** to create an end-to-end predictive maintenance pipeline.
+The project combines **Python, Pandas, Scikit-learn, Random Forest, and Streamlit** to create an end-to-end predictive maintenance pipeline.
 
 ---
 
