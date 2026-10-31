@@ -1,16 +1,23 @@
-# Python
+# Python cache
 __pycache__/
 *.pyc
 
-# Virtual environment
+# Virtual environments
 venv/
 .venv/
 
-# Generated processed data
-data/processed/
+# Environment variables
+.env
 
-# Generated model
-models/*.pkl
+# IDE
+.vscode/
 
-# Power BI temporary files
+# Temporary files
 *.tmp
+*.log
+
+# Backup files
+app_backup.py
+
+# ZIP files
+*.zip
